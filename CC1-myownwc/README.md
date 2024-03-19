@@ -14,7 +14,7 @@
 
 ## Links
 [How to build a CLI app in Java using jbang and picocli](https://www.twilio.com/blog/cli-app-java-jbang-picocli);
-
+[Link do desafio](https://codingchallenges.fyi/challenges/challenge-wc)
 
 ## Libs utilizadas
 [JBang](https://www.jbang.dev/)
